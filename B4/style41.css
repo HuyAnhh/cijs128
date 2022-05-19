@@ -1,0 +1,32 @@
+.title {
+    border: 5px double;
+    border-color: #a95959;
+    border-left: 0px;
+    border-right:0px;
+
+    background-color: #d69292;
+
+    margin: 0 25vw;
+
+    padding: 20px;
+}
+
+.h1 {
+    margin: 0 25vw
+}
+
+.week1 {
+    border: 2px solid blue ;
+    background-color: cornflowerblue;
+    margin: 10px 26vw;
+    margin-right: 40vw;
+    padding: 15px 10px;
+}
+
+.week2 {
+    border: 2px solid blue ;
+    background-color: cornflowerblue;
+    margin: 20px 26vw; 
+    margin-right: 40vw;
+    padding: 15px 10px;
+}

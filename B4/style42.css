@@ -1,0 +1,21 @@
+.header {
+    background-color: rgb(82, 4, 155);
+    border:0px solid;
+    color:aliceblue;
+    padding-top: 3px;
+    padding-left: 25vw;
+    padding-bottom: 6px;
+
+}
+
+#button {
+    color:aliceblue;
+    background-color:rgb(82, 4, 155) ;
+}
+
+.tainghe {
+    border:1px solid black;
+    padding: 10px 10px;
+    margin-left: 25vw;
+    margin-right: 25vw;
+}
